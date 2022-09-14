@@ -10,7 +10,7 @@ I'm a PhD candidate at the Sociology Department of Utrecht University. My GitHub
  
 ## Data Science projects
 
-I love using Python (and, to an extent, R) to generate insights from data (be that existing data or simulated data). You can check out some projects on my [blog](https://christianfang95.github.io).
+I use Python (and, to an extent, R and Stata) to generate insights from data (be that existing data or simulated data). You can check out some projects on my [blog](https://christianfang95.github.io).
 
 ## Teaching materials
 
