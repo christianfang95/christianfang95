@@ -4,7 +4,9 @@ I'm a PhD candidate at the Sociology Department of Utrecht University. My GitHub
 
 ## Research 
 
- - My "substantive" PhD research considers how parents and children perceive living in postdivorce families. To do so, I analyze existing data and literature to identify research gaps to generate hypotheses. I test the resulting hypotheses using diverse quantitative methods, such as (linear/logisitc) regression models.
+ - My "substantive" PhD research considers how parents and children perceive living in postdivorce families. To do so, I analyze existing data and literature to identify research gaps to generate hypotheses. I test the resulting hypotheses using diverse quantitative methods, such as (linear/logisitc) regression models. You can read the published chapters of my dissertation here:
+ 
+     - Family rituals in postdivorce families: The role of family structure and relationship quality for parents' and stepparents' attendance at children's birthdays. Journal of Family Research. [PDF](https://ubp.uni-bamberg.de/jfr/index.php/jfr/article/view/670/648)
  
  - I also take great interest in methodological and statistical research. Currently, I am working with colleagues on a paper using simulation studies to investigate the appropriateness of the "Linear Probability Model" under varying conditions (e.g., different data generation processes, magnitudes of effects, presence of interaction effects, bivariate correlations betweeen variables).
  
